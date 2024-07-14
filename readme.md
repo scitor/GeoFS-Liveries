@@ -9,5 +9,5 @@
 - Experimental Aviation Switzerland (Sonex-B kit, [source](https://www.experimental.ch/gallery/first-flights-2013/))  
 <img src=".promo/sonex0.png" width=200><img src=".promo/sonex1.png" width=200><img src=".promo/sonex2.png" width=200>
 
-- Phenom 100 (DesertBeige, MattGreen, SwissAviation)  
+- Phenom 100 (MattGreen, DesertBeige, SwissAviation)  
 <img src=".promo/phenomGreen.png" width=200><img src=".promo/phenomBeige.png" width=200><img src=".promo/phenomSwiss.png" width=200>
